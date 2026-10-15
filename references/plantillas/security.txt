@@ -1,0 +1,12 @@
+# Publicar en https://[DOMINIO]/.well-known/security.txt (text/plain, solo HTTPS).
+# RFC 9116: Contact y Expires son obligatorios. Expires, a menos de un año vista: pon un recordatorio para renovarlo.
+# Borra estas líneas de comentario si quieres; son válidas en el formato.
+
+Contact: mailto:[seguridad@DOMINIO]
+Contact: https://[DOMINIO]/seguridad
+Expires: [AAAA-MM-DD]T00:00:00.000Z
+Preferred-Languages: es, en
+Canonical: https://[DOMINIO]/.well-known/security.txt
+Policy: https://[DOMINIO]/seguridad
+# Acknowledgments: https://[DOMINIO]/seguridad#agradecimientos
+# Encryption: https://[DOMINIO]/clave-pgp.txt
