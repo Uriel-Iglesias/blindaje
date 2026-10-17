@@ -1,6 +1,6 @@
 ---
 name: blindaje
-description: Seguridad y legal para webs, apps, cursos online, áreas de miembros, APIs y automatizaciones. Úsala cuando pidan revisar la seguridad, hacer una auditoría, «revisa mi web», «antes de publicar», «¿es seguro?», o cuando toque lo legal (aviso legal, privacidad, cookies, banner de cookies, condiciones de venta, desistimiento, RGPD). Tres modos. Auditoría: recorre frontend y backend y deja AUDITORIA-SEGURIDAD.md con mejoras priorizadas (Crítico, Alto, Medio, Bajo). Construcción: reglas de seguro por defecto mientras se programa. Legal: crea o revisa las páginas legales, /seguridad y security.txt. Úsala también al tocar auth, pagos, webhooks, Supabase, Firebase, Stripe, vídeo de pago, correo o claves de API de IA.
+description: "Seguridad y legal para webs, apps, cursos online, áreas de miembros, APIs y automatizaciones. Úsala cuando pidan revisar la seguridad, hacer una auditoría, «revisa mi web», «antes de publicar», «¿es seguro?», o cuando toque lo legal (aviso legal, privacidad, cookies, banner de cookies, condiciones de venta, desistimiento, RGPD). Tres modos. Auditoría: recorre frontend y backend y deja AUDITORIA-SEGURIDAD.md con mejoras priorizadas (Crítico, Alto, Medio, Bajo). Construcción: reglas de seguro por defecto mientras se programa. Legal: crea o revisa las páginas legales, /seguridad y security.txt. Úsala también al tocar auth, pagos, webhooks, Supabase, Firebase, Stripe, vídeo de pago, correo o claves de API de IA."
 license: MIT
 metadata:
   version: "1.0.0"
